@@ -1,0 +1,16 @@
+table, th, td{
+	border: 1px solid black;}	
+	
+th{
+	text-align:center;} 
+	
+
+img {
+    opacity: 1.0;
+    filter: alpha(opacity=100);
+    }
+	
+img:hover {
+	opacity: 0.5;
+    filter: alpha(opacity=40);
+    }
